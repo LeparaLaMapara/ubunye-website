@@ -76,7 +76,7 @@ export const APPROACH_STEPS: ApproachStep[] = [
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: 1,
-    quote: "Etihuku delivered a sophisticated AI system that greatly enhanced our security protocols and operational efficiency.",
+    quote: "UAIE delivered a sophisticated AI system that greatly enhanced our security protocols and operational efficiency.",
     author: "Champion Mobile",
     role: "Client",
     rating: 5
@@ -88,13 +88,13 @@ export const TESTIMONIALS: Testimonial[] = [
     role: "Client",
     rating: 5
   },
-  {
-    id: 3,
-    quote: "UAIE developed an advanced AI-powered web application that helped us streamline our student management systems.",
-    author: "University of Eswatini",
-    role: "Client",
-    rating: 5
-  }
+  // {
+  //   id: 3,
+  //   quote: "UAIE developed an advanced AI-powered web application that helped us streamline our student management systems.",
+  //   author: "University of Eswatini",
+  //   role: "Client",
+  //   rating: 5
+  // }
 ];
 
 export const BLOG_POSTS: BlogPost[] = [
